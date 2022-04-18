@@ -12,5 +12,7 @@ when trying to update a secondary repo with the date in the first:
 2) add to staging
 3) commit staging
 4) push to secondary remote
+5) Debug
+
 
 
